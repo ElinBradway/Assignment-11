@@ -1,3 +1,13 @@
+h1 {
+    font-family: "Mulish", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 60px;
+    font-size: 40px;
+    color: #111111;
+}
+
 h2 {
     font-family: "Mulish", sans-serif;
     font-optical-sizing: auto;
@@ -16,15 +26,6 @@ h3 {
     font-size: 22px;
     color: #4A4FF2; 
     margin-bottom: 32px;
-}
-
-p {
-    font-family: "Mulish", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    color: #979797;
-    font-size: 16px;
 }
 
 h4 {
@@ -51,5 +52,14 @@ h6 {
     font-weight: 400;
     font-style: normal;
     color: #111111;
+    font-size: 16px;
+}
+
+p {
+    font-family: "Mulish", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #979797;
     font-size: 16px;
 }
